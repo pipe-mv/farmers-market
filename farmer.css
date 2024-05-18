@@ -131,6 +131,13 @@ a:link {
 	padding: 5px;
 }
 
+#footer{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px 0 20px 0;
+}
+
 
 
 
